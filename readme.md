@@ -14,7 +14,7 @@ Steps part 1: <br/>
 8 - run the command "python manage.py runserver" to run the django server <br/>
 
 Steps part 2: <br/>
-1 - open another terminal and navigate to the app directory and go to client_ui directory, make sure you are on the client_ui directory of the app <br/>
+1 - open another terminal and navigate to the app directory and go to client_ui directory, make sure you are on the client_ui directory of the app directory <br/>
 2 - install all the dependencies using "npm install", make sure you have nodejs installed in your system <br/>
 3 - now run the command "npm run dev" <br/>
 
